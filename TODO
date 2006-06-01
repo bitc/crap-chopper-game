@@ -1,0 +1,20 @@
+TODO
+
+- [ ] Limit Minimum FPS
+- [ ] StupidEnemy
+- [ ] Chopper health
+- [/] Text System
+   . [/] FPS counter
+   . [ ] Intro Text
+   . [ ] Score counter
+- [ ] Fix Chopper Controls
+- [ ] Fix Target input
+- [ ] Special Effects
+   . [ ] Cooler spinny target
+   . [ ] Particle Systems
+      . [ ] Bullet Ground collision
+      . [ ] Bullet Object collision
+      . [ ] Chopper smoke when low health
+      . [ ] Enemy smoke when low health
+   . [ ] Use ribbons for propellers
+
